@@ -8,19 +8,22 @@ const data = {
             id: 1,
             img: banana,
             title: "banana",
-            price: 5
+            price: 5,
+            color: "yellow"
         },
         {
             id: 2,
             img: apple,
             title: "apple",
-            price: 10
+            price: 10,
+            color: "green"
         },
         {
             id: 3,
             img: toy,
             title: "toy",
-            price: 50
+            price: 50,
+            color: "red"
         }
     ]
 }
